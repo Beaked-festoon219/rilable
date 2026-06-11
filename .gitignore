@@ -1,0 +1,18 @@
+# Personal configuration — copy ios/AppConfig.example.swift here and fill in
+ios/Sources/AppConfig.swift
+
+# Convex local state (contains your deployment name)
+backend/.env.local
+backend/node_modules/
+
+# Xcode / build artifacts (regenerate with `xcodegen generate`)
+ios/Forge.xcodeproj/
+ios/Info.plist
+ios/build/
+DerivedData/
+
+# Local screenshots
+screenshots/
+
+# OS noise
+.DS_Store
